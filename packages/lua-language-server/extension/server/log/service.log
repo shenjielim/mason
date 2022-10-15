@@ -1,0 +1,31 @@
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:65]: Lua Lsp startup, root: 	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:66]: ROOT:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:67]: LOGPATH:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/log
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:68]: METAPATH:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/meta
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:69]: VERSION:	3.5.6
+[23:10:32.480][info] [#0:script\service\service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.413 MB
+        # 00 : 1.413 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[23:10:32.495][info] [#0:script\language.lua:137]: VSC language: nil
+[23:10:32.495][info] [#0:script\language.lua:138]: LS  language: en-us
+[23:10:32.495][info] [#0:script\workspace\workspace.lua:38]: Workspace init root: 	file:///C:/Users/limshenjie/AppData/Local/nvim
+[23:10:32.495][info] [#0:script\workspace\workspace.lua:42]: Log path: 	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/log/file_C_Users_limshenjie_AppData_Local_nvim.log

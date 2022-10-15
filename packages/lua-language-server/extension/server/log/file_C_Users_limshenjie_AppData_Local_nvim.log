@@ -1,0 +1,132 @@
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:65]: Lua Lsp startup, root: 	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:66]: ROOT:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:67]: LOGPATH:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/log
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:68]: METAPATH:	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/meta
+[23:10:32.433][info] [#0:C:\Users\limshenjie\AppData\Local\nvim-data\mason\packages\lua-language-server\extension\server\main.lua:69]: VERSION:	3.5.6
+[23:10:32.480][info] [#0:script\service\service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.413 MB
+        # 00 : 1.413 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[23:10:32.495][info] [#0:script\language.lua:137]: VSC language: nil
+[23:10:32.495][info] [#0:script\language.lua:138]: LS  language: en-us
+[23:10:32.495][info] [#0:script\workspace\workspace.lua:38]: Workspace init root: 	file:///C:/Users/limshenjie/AppData/Local/nvim
+[23:10:32.495][info] [#0:script\workspace\workspace.lua:42]: Log path: 	C:/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/log/file_C_Users_limshenjie_AppData_Local_nvim.log
+[23:10:32.511][info] [#0:script\workspace\workspace.lua:51]: Workspace create: 	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.730][info] [#0:script\provider\provider.lua:41]: Load config from client	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.730][info] [#0:script\provider\provider.lua:42]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.730][info] [#0:script\provider\provider.lua:41]: Load config from client	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.730][info] [#0:script\provider\provider.lua:42]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.730][info] [#0:script\provider\provider.lua:41]: Load config from client	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.730][info] [#0:script\provider\provider.lua:42]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.730][info] [#0:script\provider\provider.lua:56]: Load config from client	fallback
+[23:10:32.730][info] [#0:script\provider\provider.lua:57]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.730][info] [#0:script\library.lua:207]: Init builtin library at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.792][info] [#0:script\plugin.lua:86]: plugin path:	C:\Users\limshenjie\AppData\Local\nvim
+[23:10:32.792][warn] [#0:script\plugin.lua:101]: plugin not found:	C:\Users\limshenjie\AppData\Local\nvim
+[23:10:32.792][info] [#0:script\library.lua:207]: Init builtin library at:	nil
+[23:10:32.839][info] [#0:script\provider\provider.lua:56]: Load config from client	fallback
+[23:10:32.839][info] [#0:script\provider\provider.lua:57]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.839][info] [#0:script\provider\provider.lua:56]: Load config from client	fallback
+[23:10:32.839][info] [#0:script\provider\provider.lua:57]: {
+  Lua = {
+    telemetry = {
+      enable = false
+    }
+  }
+}
+[23:10:32.839][info] [#0:script\workspace\workspace.lua:305]: Preload start:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.839][info] [#0:script\workspace\workspace.lua:311]: Scan files at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:32.839][info] [#0:script\workspace\workspace.lua:305]: Preload start:	<fallback>
+[23:10:32.839][info] [#0:script\workspace\workspace.lua:328]: Scan library at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[23:10:33.448][info] [#0:script\workspace\workspace.lua:328]: Scan library at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim-data/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[23:10:33.448][info] [#0:script\workspace\workspace.lua:348]: Found 11 files at:	<fallback>
+[23:10:33.448][info] [#0:script\workspace\loading.lua:153]: Load files from disk:	<fallback>
+[23:10:33.448][info] [#0:script\workspace\workspace.lua:348]: Found 877 files at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:33.448][info] [#0:script\workspace\loading.lua:153]: Load files from disk:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:33.495][info] [#0:script\workspace\loading.lua:165]: Loaded files takes [0.045] sec: <fallback>
+[23:10:33.495][info] [#0:script\workspace\loading.lua:174]: Compile files takes [0.001] sec: <fallback>
+[23:10:33.495][info] [#0:script\workspace\loading.lua:175]: Loaded finish:	<fallback>
+[23:10:33.495][info] [#0:script\workspace\workspace.lua:350]: Preload finish at:	<fallback>
+[23:10:33.526][warn] [#0:script\proto\proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[23:10:35.448][info] [#0:script\workspace\loading.lua:165]: Loaded files takes [1.998] sec: file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:35.448][info] [#0:script\workspace\loading.lua:174]: Compile files takes [0.000] sec: file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:35.448][info] [#0:script\workspace\loading.lua:175]: Loaded finish:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:35.448][info] [#0:script\workspace\workspace.lua:350]: Preload finish at:	file:///c%3A/Users/limshenjie/AppData/Local/nvim
+[23:10:35.901][warn] [#0:script\proto\proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[23:10:37.526][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:10:37.526][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [<fallback>], files count:[877]
+[23:10:55.245][info] [#0:script\provider\diagnostic.lua:503]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim] finished, takes [17.726] sec.
+[23:10:55.245][info] [#0:script\provider\diagnostic.lua:503]: Diagnostics scope [<fallback>] finished, takes [17.718] sec.
+[23:12:17.401][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:12:19.401][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:12:30.198][info] [#0:script\provider\diagnostic.lua:503]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim] finished, takes [10.796] sec.
+[23:12:58.761][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:08.839][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:11.964][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:15.339][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:16.870][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:17.870][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:18.401][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:19.589][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:20.480][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:20.776][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:21.089][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:21.417][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:21.776][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:24.776][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:27.917][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:38.448][info] [#0:script\provider\diagnostic.lua:503]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim] finished, takes [10.534] sec.
+[23:13:40.136][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:46.026][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:52.245][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:13:54.276][info] [#0:script\provider\diagnostic.lua:486]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim], files count:[877]
+[23:14:04.714][info] [#0:script\provider\diagnostic.lua:503]: Diagnostics scope [file:///c%3A/Users/limshenjie/AppData/Local/nvim] finished, takes [10.451] sec.
+[23:18:52.761][warn] [#0:script\pub\report.lua:25]: Load proto error:	Disconnected!
